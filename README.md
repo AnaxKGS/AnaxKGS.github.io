@@ -19,4 +19,4 @@ Network Troubleshooting and Tools: 0 Questions
 
 ## License
 
-This project is licenced under the [https://github.com/AnaxKGS/AnaxKGS.github.io/blob/main/LICENSE](MIT License) - see the [https://github.com/AnaxKGS/AnaxKGS.github.io/blob/main/LICENSE](LICENSE.md) file for details
+This project is licenced under the [MIT License](https://github.com/AnaxKGS/AnaxKGS.github.io/blob/main/LICENSE) - see the [LICENSE.md](https://github.com/AnaxKGS/AnaxKGS.github.io/blob/main/LICENSE) file for details
