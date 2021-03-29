@@ -23,6 +23,21 @@ CompTIA Network+ candidates are recommended to have the following:
 * **CompTIA A+ certification or equivalent knowledge**
 * **At least 9 to 12 month of work experience in IT networking**
 
+### EXAM ACCREDITATION
+
+The CompTIA Network+ exam is accredited by ANSI to show compliance with the ISO 17024 standard and, as such, undergoes regular reviews and updates to the exam objectives.
+
+### EXAM DEVELOPMENT
+
+CompTIA exams result from subject-matter expert workshops and industry-wide survey results regarding the skills and knowledge required of an entry-level IT professional.
+
+### TEST DETAILS
+
+Required exam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N10-007  
+Number of questions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100  
+Types of questions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multiple choice and performance-based  
+Passing score&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;80%
+
 ## Question Pools
 
 Networking Concepts: 50 Questions  
