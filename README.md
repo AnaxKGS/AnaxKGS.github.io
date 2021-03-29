@@ -16,6 +16,7 @@ This exam will certify the successful candidate has the knowledge and skills req
 * **Implement network security, standards, and protocols** 
 
 The candidate will have a basic understanding of enterprise technologies, including cloud and virtualization technologies.  
+  
 CompTIA Network+ is accredited by ANSI to show compliance with the ISO 17024 Standard and, as such, the exam objectives undergo regular reviews and updates.  
   
 CompTIA Network+ candidates are recommended to have the following:
