@@ -42,7 +42,7 @@ CompTIA exams result from subject-matter expert workshops and industry-wide surv
    * Minimum of nine months of experience in network support or administration; or academic training
 * You need 720 or higher to pass (on a scale of 100-900)  
 
-### EXAM OBJECTIVES (DOMAINS)
+### EXAM DOMAINS
 
 The table below lists the domains measured by this examination and the extent to which they are represented:
 
@@ -54,6 +54,43 @@ The table below lists the domains measured by this examination and the extent to
 |4.0 Network Security|20%|
 |5.0 Network Troubleshooting and Tools|22%|
 |**Total**|**100%**|
+  
+## Exam Objectives
+
+* Networking Concepts
+  * Explain the purposes and uses of ports and protocols
+  * Explain devices, applications, protocols and services at their appropriate OSI layers
+  * Explain the concepts and characteristics of routing and switching
+  * Given a scenaria, configure the appropriate IP addressing components
+  * Compare and contrast the characteristsics of network topologies, types and technologies
+  * Given a scenario, implement the appropriate wireless technologies and configurations
+  * Summarize cloud concepts and their purposes
+  * Explain the functions of network services
+* Infrastructure
+  * Given a scenario, deplay the appropriate cabling solution
+  * Given a scenario, determine the appropriate placement of networking devices on a network and install/configure them
+  * Explain the purposes and use cases for advanced networking devices
+  * Explain the purposes of virtualization and network storage technologies
+  * Compare and contrast WAN technologies
+* Network Operations
+  * Given a scenario, use appropriate documentation
+  * Compare and contrast business continuity and disaster recovery concepts
+  * Explain common scanning, monitoring and patching processes and summarize their expected outputs
+  * Given a scenario, use remote access methods
+  * Identify policies and best practices
+* Network Security
+  * Summarize the purposes of physical security devices
+  * Explain authentication and access controls
+  * Given a scenario, secure a basic wireless network
+  * Summarize common networking attacks
+  * Given a scenario, implement network device hardening
+  * Explain common mitigation techniques and their purposes
+* Network Troubleshooting and Tools
+  * Explain the network troubleshooting methodology
+  * Given a scenario, use the appropriate tool
+  * Given a scenario, troubleshoot common wired connectivity and performance issues
+  * Given a scenario, troubleshoot common wireless connectivity and performance issues
+  * Given a scenario, troubleshoot common network sevice issues
  
 ## Question Pools
 
