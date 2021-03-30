@@ -42,6 +42,19 @@ CompTIA exams result from subject-matter expert workshops and industry-wide surv
    * Minimum of nine months of experience in network support or administration; or academic training
 * You need 720 or higher to pass (on a scale of 100-900)  
 
+### EXAM OBJECTIVES (DOMAINS)
+
+The table below lists the domains measured by this examination and the extent to which they are represented:
+
+|DOMAIN    | PERCENTAGE OF EXAMINATION|
+|:------   |        :-------:         |
+|1.0 Networking Concepts|23%|
+|2.0 Infrastructure|18%|
+|3.0 Network Operations|17%|
+|4.0 Network Security|20%|
+|5.0 Network Troubleshooting and Tools|22%|
+|**Total**|**100%**|
+ 
 ## Question Pools
 
 Networking Concepts: 50 Questions  
