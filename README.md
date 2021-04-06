@@ -2,7 +2,7 @@
 
 This is a randomized practice test for CompTIA Network+ exam.
 
-Right now the test consists of 10 random questions.
+Right now the test consists of 20 random questions.
 
 ## About the Exam
 
@@ -95,7 +95,7 @@ The table below lists the domains measured by this examination and the extent to
 ## Question Pools
 
 Networking Concepts: 100 Questions  
-Infrastructure: 0 Questions  
+Infrastructure: 30 Questions  
 Network Operations: 0 Questions  
 Network Security: 0 Questions  
 Network Troubleshooting and Tools: 0 Questions  
