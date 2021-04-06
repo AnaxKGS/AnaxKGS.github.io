@@ -94,7 +94,7 @@ The table below lists the domains measured by this examination and the extent to
  
 ## Question Pools
 
-Networking Concepts: 70 Questions  
+Networking Concepts: 100 Questions  
 Infrastructure: 0 Questions  
 Network Operations: 0 Questions  
 Network Security: 0 Questions  
