@@ -1,0 +1,129 @@
+:root { /* The :root is for setting universal variables */
+    --md-sys-color-primary: #6750A4;
+    --md-sys-color-on-primary: #FFFFFF;
+    --md-sys-color-primary-container: #EADDFF;
+    --md-sys-color-on-primary-container: #21005D;
+  
+    --md-sys-color-secondary: #625B71;
+    --md-sys-color-on-secondary: #FFFFFF;
+    --md-sys-color-secondary-container: #E8DEF8; 
+    /* Add more as needed */
+
+    --md-sys-color-surface-container-highest: #E6E0E9;
+    --md-sys-color-outline: #79747E;
+  
+    --md-sys-color-background: #FEF7FF;
+  }
+
+/* Basic Reset */
+*, *::before, *::after { 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--md-sys-color-primary-container);
+    color: var(--md-sys-color-on-primary-container);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 600px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1, h2 {
+    color: #222; 
+}
+
+.certificate-select {
+    margin-bottom: 20px;
+}
+
+.form-switch .form-check-input {
+    background-color: var(--md-sys-color-surface-container-highest);/* Thumb off-state color */
+    border-color: var(--md-sys-color-outline);
+    border: 2px solid var(--md-sys-color-outline);
+    border-radius: 20px; /* Rounded style */
+}
+
+.form-switch .form-check-input:checked {
+    border-color: var(--md-sys-color-primary); /* Thumb on-state color */ 
+    background-color: var(--md-sys-color-primary); /* Thumb on-state color */ 
+  }
+  
+  .form-switch .form-check-input:checked + .form-check-label::before{
+    background-color: var(--md-sys-color-primary-container); /* Track on-state color */ 
+    border-color: var(--md-sys-color-primary-container); 
+  }
+  
+  .form-switch .form-check-input:focus {
+    /* border-color: var(--md-sys-color-primary); /* Optional focus indicator */
+    box-shadow: 0 0 0 0.15rem rgba(var(--md-sys-color-primary-rgb), .25); 
+  }
+
+.btn-primary:enabled {
+    background-color: var(--md-sys-color-primary);
+    border-color: var(--md-sys-color-primary);
+    border-radius: 20px; /* Softer corners */
+    text-transform: uppercase; /* Uppercase text is common in MD3 */
+    font-weight: 600; /* Slightly bolder font weight */
+    padding: 8px 16px; /* Adjust padding if needed */
+}
+
+.btn:hover {
+    background-color: var(--md-sys-color-on-primary-container);
+    border-color: var(--md-sys-color-primary);
+    /* Consider adding a subtle elevation effect on hover */
+    box-shadow: 
+    0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 
+    0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+} 
+
+.btn-primary:disabled {
+    background-color: var(--md-sys-color-secondary);
+    border-color: var(--md-sys-color-primary);
+    border-radius: 20px; /* Softer corners */
+    text-transform: uppercase; /* Uppercase text is common in MD3 */
+    font-weight: 600; /* Slightly bolder font weight */
+    padding: 8px 16px; /* Adjust padding if needed */
+    cursor: not-allowed;
+}
+
+.btn {
+    border-radius: 20px;
+}
+    
+/* Dropdown Customization (Assuming Bootstrap-select) */
+.bootstrap-select {
+    border-radius: 20px; 
+    text-transform: none; /* Override for the dropdown */
+}
+
+.bootstrap-select .dropdown-menu {
+    color: rgba(var(--md-sys-color-primary-rgb), .25);
+    border-radius: 50px;
+    box-shadow: 
+        0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+        0px 1px 1px 0px rgba(0, 0, 0, 0.14), 
+        0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+}
+
+.hidden {
+    display: none;
+}
