@@ -1,28 +1,24 @@
-# CompTIA Network+ Practice Test
+# CompTIA Security+ Practice Test (SY0-601)
 
-This is a randomized practice test for CompTIA Network+ exam.
+This is a randomized practice test for CompTIA Security+ exam.
 
-Right now the test consists of 50 random questions.
-The total number of questions is 900.
+Right now the test consists of 20 random questions.
+The total number of questions is 902.
 
 ## About the Exam
 
-The CompTIA Network+ certification is an internationally recognized validation of the technical knowledge required of foundation-level IT network practitioners.  
-  
-This exam will certify the successful candidate has the knowledge and skills required to:   
-* **Troubleshoot, configure and manage common network devices** 
-* **Establish basic network connectivity**
-* **Understand and maintain network documentation** 
-* **Identify network limitations and weaknesses** 
-* **Implement network security, standards, and protocols** 
+The CompTIA Security+ (SY0-601) represents the latest and greatest in cybersecurity, covering the most in-demand skills related to current threats, automation, zero trust, IoT, risk – and more. Once certified, you’ll understand the core skills needed to succeed on the job – and employers will notice too. The Security+ exam verifies you have the knowledge and skills required to:  
+     
+* Assess the security posture of an enterprise environment and recommend and implement appropriate security solutions.
+* Monitor and secure hybrid environments, including cloud, mobile, Internet of Things (IoT), and operational technology.
+* Operate with an awareness of applicable regulations and policies, including principles of governance, risk, and compliance. 
+* Identify, analyze, and respond to security events and incidents. 
 
-The candidate will have a basic understanding of enterprise technologies, including cloud and virtualization technologies.  
-  
-CompTIA Network+ is accredited by ANSI to show compliance with the ISO 17024 Standard and, as such, the exam objectives undergo regular reviews and updates.  
+CompTIA Security+ is compliant with ISO 17024 standards and approved by the U.S. DoD to meet Directive 8140.03M requirements. Regulators and government rely on ANSI accreditation because it provides confidence and trust in the outputs of an accredited program. Over 3 million CompTIA ISO/ANSI-accredited exams have been delivered since January 1, 2011.  
   
 CompTIA Network+ candidates are recommended to have the following:
-* **CompTIA A+ certification or equivalent knowledge**
-* **At least 9 to 12 month of work experience in IT networking**
+* **CompTIA Network+ certification or equivalent knowledge**
+* **At least 2 years of experience in IT administration with a security focus**
 
 ### EXAM ACCREDITATION
 
